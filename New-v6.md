@@ -1,10 +1,10 @@
 {
-"Title": "❌   بزرگ‌ترین گروه رفع مشکلات فیلترشکن   ❌",
-"Description": "سلام عزیزم ، اگه فیلترشکنت وصل نمیشه یا سوال داری ، یا بهترین فیلترشکن و بهترین تنظیمات و میخوای یا هر سوال دیگه راجب فیلترشکن ، فورا عضو بزرگ‌ترین گروه رفع اشکال بشو 👇🏻",
-"Link": "tg://join?invite=Dh1tOn_UYl03ODM0",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "فیلترشکن جدید و پرسرعت 😍",
+"Description": "* فیلترشکن جدید و پرسرعت با نام Zeta Vpn منتشر شد که مناسب تمام اپراتورهاست ، درصورت تمایل بر روی دانلود کلیک کنید 👇🏻",
+"Link": "http://pedarsalavati.site/VpnShield/Zeta_Vpn_v1.0_Mod.apk",
+"ColorWave": "#00eaff",
+"Color": "#00ffdd",
+"ColorWaveTwo": "#00ffdd",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "01299265298585",
-"ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": " ",
+"Cancellable": "true",
+"MessageID": "185792108410",
+"ShowTime": "5",
+"Button": "  دانلود مستقیم و سریع ",
+"ButtonCancell": " نیاز ندارم ",
 "Closure": "true",
 "Show": "on"
 }
