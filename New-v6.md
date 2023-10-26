@@ -1,10 +1,10 @@
 {
-"Title": "فیلترشکن جدید و پرسرعت 😍",
-"Description": "* فیلترشکن جدید و پرسرعت با نام Zeta Vpn منتشر شد که مناسب تمام اپراتورهاست ، درصورت تمایل بر روی دانلود کلیک کنید 👇🏻",
-"Link": "http://pedarsalavati.site/VpnShield/Zeta_Vpn_v1.0_Mod.apk",
-"ColorWave": "#00eaff",
-"Color": "#00ffdd",
-"ColorWaveTwo": "#00ffdd",
+"Title": "فیلترشکن تیم Vpn Shield منتشر شد 🔥",
+"Description": "- بالاخره فیلترشکن اختصاصی تیم Vpn Shield با نام v2raySH منتشر شد ؛ اگه نیای تو کانال و تستش نکنی ضرر میکنی نگو نگفتی 😄👇🏻",
+"Link": "tg://join?invite=z49wuARWMGw5NzI8",
+"ColorWave": "#00B0FF",
+"Color": "#00B0FF",
+"ColorWaveTwo": "#00E5FF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "185792108410",
+"MessageID": "19293984100001919393",
 "ShowTime": "5",
-"Button": "  دانلود مستقیم و سریع ",
-"ButtonCancell": " نیاز ندارم ",
+"Button": " دانلود از تلگرام ",
+"ButtonCancell": " میخوام ضرر کنم  ",
 "Closure": "true",
 "Show": "on"
 }
