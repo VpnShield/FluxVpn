@@ -1,10 +1,10 @@
 {
-"Title": "🔥 سوپرایز ویژه 🔥",
-"Description": "الان و فردا کلی کانفیگ v2ray خفن + فیلترشکنای خفن حال حاظر برای اینستا و ... تو چنل قرار میدیم ؛ پیشنهاد میدم حتما عضو شو 😎👇🏻",
-"Link": "tg://join?invite=lVZAxWcBl9pjNzlk",
-"ColorWave": "#FF5722",
-"Color": "#FF5722",
-"ColorWaveTwo": "#FF7043",
+"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
+"Description": "- از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه حتی اینستارو سریع باز میکنه ، خودمون با اینجا وصلیم 👇🏻",
+"Link": "tg://join?invite=U-iAhFfN3u03ZTU0",
+"ColorWave": "#18FFFF",
+"Color": "#7C4DFF",
+"ColorWaveTwo": "#651FFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "01010101758582",
+"Cancellable": "true",
+"MessageID": "0020276527",
 "ShowTime": "3",
-"Button": " عضویت اجباری در تلگرام ",
-"ButtonCancell": "  ",
+"Button": " دانلود فیلترشکن بدون قطعی ",
+"ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
 }
